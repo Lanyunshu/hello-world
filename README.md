@@ -1,2 +1,5 @@
 # hello-world
-just the frist repository
+
+Hi Humans!
+
+Robot here. I like Node.
